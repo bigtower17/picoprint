@@ -15,3 +15,11 @@ protodump/*
 spool/*
 trace.out
 *.pf
+
+# PicoPrint local artifacts
+tp.exe
+picoprint.exe
+logs/
+spool/
+preview_*.png
+scripts/*.log

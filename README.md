@@ -1,5 +1,7 @@
 # PicoPrint
 
+[![Featured by Awesome REA](https://raw.githubusercontent.com/reacher-z/Awesome-REA/477658fa73f6860e86cd1fc526657c2efdc25194/assets/featured-by-awesome-rea-inline.svg)](https://awesomerea.org/resources/picoprint-rea-investigation/)
+
 Print from Windows to the **LX-D02** Bluetooth thermal mini printer, the one
 that normally works only with the *Funny Print* phone app.
 
